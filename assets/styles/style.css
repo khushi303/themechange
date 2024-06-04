@@ -1,0 +1,19 @@
+:root {
+    --background: white;
+    --content: black
+}
+
+[data-theme="dark"] {
+    --background: black;
+    --content: white
+}
+
+[data-theme="orange"] {
+    --background: orange;
+    --content: black;
+}
+
+[data-theme="blue"] {
+    --background: blue;
+    --content: white
+}
